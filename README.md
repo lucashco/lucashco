@@ -1,15 +1,15 @@
 ## Hello guys! 👋
 My name is Lucas Castilho and I'm a FrontEnd developer. I'm from Jales-SP, living in São José do Rio Preto-SP. Nice to meet you!
 
-## 🛠 Technologies && Tools
+## 🛠 Technologies & Tools
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=F7DF1E)
 ![](https://img.shields.io/badge/ReactJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=17B6E7)
 ![](https://img.shields.io/badge/NextJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=1a1a1f)
 ![](https://img.shields.io/badge/ReactNative-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=8A35DA)
 
-<!-- Github status
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucashco)](https://github.com/lucashco/github-readme-stats)
--->
+## 📈 Github stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucashco&show_icons=true&theme=radical)](https://github.com/lucashco/github-readme-stats)
+
 
 <!--
 **lucashco/lucashco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
